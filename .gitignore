@@ -18,3 +18,5 @@ target/
 
 ### DB Script Files ###
 sql/DummyDataScript.sql
+
+**/application.properties
